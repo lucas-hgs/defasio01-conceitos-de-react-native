@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/todo.gif" alt="App Gif">
+<img width="200" src="./assets/todo.gif" alt="App Gif">
 
 </div>
 
